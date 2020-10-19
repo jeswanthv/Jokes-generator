@@ -1,0 +1,34 @@
+
+.footer{
+    font-size: 1rem;
+}
+.container{
+    text-align: center;
+}
+.joke{
+    font-size: 12rem;
+    color: rgb(30, 188, 228);
+}
+.jokes{
+    border-style: solid;
+    width: auto;
+    height: 500px;
+    border-radius: 20px;
+}
+.icons{
+    padding: 50px;
+    display: flex;
+    justify-content: space-around;
+    
+    text-align: center;
+    font-size: 4rem;
+    
+}
+.credits{
+    display: block;
+    font-size: 2.5rem;
+    text-align: center;
+}
+.end{
+    font-size: 1.5rem;
+}
